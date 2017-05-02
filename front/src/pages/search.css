@@ -1,0 +1,23 @@
+.page_search .ui.form {
+  display: flex;
+  justify-content: center;
+}
+.page_search .filter__title {
+  display: inline-block;
+  vertical-align: super;
+  margin-right: .5em;
+}
+.page_search .page__wrap > * + * {
+  margin-top: 1em;
+}
+.page_search .ui.list > .item {
+  display: flex;
+
+}
+.page_search .ui.list > .item + .item {
+  margin-top: 1em;
+}
+.page_search .ui.avatar.image {
+  width: 4em;
+  height: 4em;
+}

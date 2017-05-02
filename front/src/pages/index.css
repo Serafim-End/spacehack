@@ -1,0 +1,12 @@
+.page_index .page__wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.page_index .ui.form > * + * {
+  margin-left: .5em;
+}
+.page_index .page__wrap > * + * {
+  margin-top: .8em;
+}
