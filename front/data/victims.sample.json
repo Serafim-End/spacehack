@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Guoke Yuta",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ea eius perferendis eos, deleniti enim. Facilis voluptate necessitatibus accusamus eligendi cumque similique, commodi labore fugiat excepturi qui reprehenderit, iste provident.",
+    "sex": "woman",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hanna_smi/128.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mansa Touka",
+    "about": "Facilis voluptate necessitatibus accusamus eligendi cumque similique, commodi labore fugiat excepturi qui reprehenderit, iste provident. Consectetur adipisicing elit. Quisquam ea eius perferendis eos, deleniti enim.",
+    "sex": "woman",
+    "avatar": "/girl.avatar.sample.jpg"
+  }
+]
